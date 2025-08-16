@@ -1,0 +1,5 @@
+{
+  "name": "Character Concept Generator",
+  "description": "Upload an image of a character and generate a concept art sheet featuring that character in different styles and camera angles.",
+  "requestFramePermissions": []
+}
